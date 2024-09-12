@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun factCertainly! Here's a concise and professional GitHub bio for you:<br><br>"Undergraduate student at Sabaragamuwa University of Sri Lanka, pursuing a degree in Computing and Information Systems. Passionate about coding, problem-solving, and exploring the realms of technology. Constantly seeking opportunities to learn and contribute to innovative projects. Open to collaborations and eager to make a positive impact in the tech community."
+🔭 I’m currently studying in SUSL<br>👯 I’m looking to collaborate on backend / AI<br>🤝 I’m looking for help with opensource projects<br>🌱 I’m currently learning Computing and Information Sytstems<br>💬 Ask me about Anything :) <br>⚡ Fun factCertainly! Here's a concise and professional GitHub bio for you:<br><br>"Undergraduate student at Sabaragamuwa University of Sri Lanka, pursuing a degree in Computing and Information Systems. Passionate about coding, problem-solving, and exploring the realms of technology. Constantly seeking opportunities to learn and contribute to innovative projects. Open to collaborations and eager to make a positive impact in the tech community."
 
 
 ## 🌐 Socials:
