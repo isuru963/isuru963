@@ -2,14 +2,10 @@
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isuru963&label=Profile%20views&color=0e75b6&style=flat" alt="isuru963" /> </p>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<p align="left"> <a href="https://twitter.com/isuru_99" target="blank"><img src="https://img.shields.io/twitter/follow/isuru_99?logo=twitter&style=for-the-badge" alt="isuru_99" /></a> </p>
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-</br>
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width ="50"><b> A little more about me...</b> 
+##<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><b> A little more about me...</b>
 
 - 🌱 I’m currently learning **at SUSL**
 
