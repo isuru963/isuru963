@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/isuru_99" target="blank"><img src="https://img.shields.io/twitter/follow/isuru_99?logo=twitter&style=for-the-badge" alt="isuru_99" /></a> </p>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+</br>
+
 - 🌱 I’m currently learning **at SUSL**
 
 - 📝 I regularly write articles on [https://medium.com/@isuruaththanayake00](https://medium.com/@isuruaththanayake00)
@@ -57,4 +61,4 @@
 </br>
 </br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isuru963&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=isuru963&show_icons=true&locale=en" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=isuru963&" alt="GitHub Streak" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isuru963&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=isuru963&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=isuru963&" alt="GitHub Streak" /> </p>
