@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isuru Aththanayake</h1>
+<h1 align="center">Hi, I'm Isuru Aththanayake </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isuru963&label=Profile%20views&color=0e75b6&style=flat" alt="isuru963" /> </p>
 
