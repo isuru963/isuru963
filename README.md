@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://dev.to/isuru963.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="isuru963.dev" height="30" width="40" /></a>
+<a href="[https://dev.to/isuru963.dev](https://dev.to/isuru963)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="isuru963.dev" height="30" width="40" /></a>
 <a href="https://twitter.com/isuru_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isuru_99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/isuru-s-aththanayake-7a70ab220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isuru-s-aththanayake-7a70ab220/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/25112248/isuru-aththanayake?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25112248/isuru-aththanayake?tab=profile" height="30" width="40" /></a>
