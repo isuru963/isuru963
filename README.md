@@ -44,5 +44,5 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isuru963&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=isuru963&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=isuru963&" alt="GitHub Streak" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isuru963&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=isuru963&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=isuru963&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"" alt="GitHub Streak" /> </p>
 
