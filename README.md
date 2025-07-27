@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **at SUSL**
 
-- 📝 I regularly write articles on [https://medium.com/@isuruaththanayake00](https://medium.com/@isuruaththanayake00)
+- 📝 I write articles on [https://medium.com/@isuruaththanayake00](https://medium.com/@isuruaththanayake00)
 
 - 💬 Ask me about **python, java and react**
 
