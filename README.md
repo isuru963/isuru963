@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/isuru-s-aththanayake-7a70ab220/](https://www.linkedin.com/in/isuru-s-aththanayake-7a70ab220/)
 
-- ⚡ Fun fact **404!**
+- ⚡ Check **https://helloisuru.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 
